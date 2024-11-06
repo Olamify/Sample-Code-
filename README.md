@@ -1,6 +1,3 @@
-Certainly! Below is the **README.md** with the actual HTML code for all 10 templates included in the repository:
-
----
 
 # Website Templates with W3.CSS and Tailwind CSS
 
